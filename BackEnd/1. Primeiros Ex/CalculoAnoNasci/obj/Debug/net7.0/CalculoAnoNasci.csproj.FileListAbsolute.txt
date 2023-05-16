@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\bin\Debug\net7.0\CalculoAnoNasci.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\bin\Debug\net7.0\CalculoAnoNasci.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\bin\Debug\net7.0\CalculoAnoNasci.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\bin\Debug\net7.0\CalculoAnoNasci.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\bin\Debug\net7.0\CalculoAnoNasci.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\refint\CalculoAnoNasci.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\CalculoAnoNasci.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\CalculoAnoNasci\obj\Debug\net7.0\ref\CalculoAnoNasci.dll

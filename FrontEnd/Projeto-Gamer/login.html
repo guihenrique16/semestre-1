@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/login.css">
+    <title>Formulário de Login</title>
+</head>
+
+<body>
+
+    <div class="setinha">
+        <a href="#login"><img src="assets/icons/Botao_voltar_ao_topo.svg" alt=""></a>
+    </div>
+
+    <header>
+
+        <div class="header-top">
+            <div class="grid-layout header-top-flex">
+                <div class="contatos">
+                    <div class="phone">
+                        <img src="assets/icons/icone-telefone.svg" alt="Ícone do telefone de contato">
+                        <p>(11) 0900-1010</p>
+                    </div>
+                    <div class="mail">
+                        <img src="assets/icons/icone_email.svg" alt="Ícone de email de contato">
+                        <p>contato@gamer.com.br</p>
+                    </div>
+                </div>
+
+                <div class="midias-sociais">
+                    <a href="">
+                        <img src="assets/icons/facebook.svg" alt="Imagem link do facebook da empresa">
+                    </a>
+                    <a href="">
+                        <img src="assets/icons/linked.svg" alt="Imagem link do Linkedin da empresa">
+                    </a>
+                    <a href="">
+                        <img src="assets/icons/instagram.svg" alt="Imagem link do instagram da empresa">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="header-bottom">
+            <div class="grid-layout alinhamento-between-center header-bottom-flex">
+
+                <!-- menu hamburguer -->
+                <img onclick="mostrarMenu()" class="menu-hamburguer" src="assets/icons/Vectormenu-hamburger.svg" alt="">
+                <!--  -->
+
+                <img class="logo" src="assets/images/logotipo-gamer.png" alt="Imagem logotipo gamer com um controle de vídeo game ao centro">
+
+                <nav class="menu" id="menu">
+                    <div class="menu-navegacao">
+                        <a href="index.html">Início</a>
+                        <a href="jogadores.html">Jogadores</a>
+                        <a href="equipe.html">Equipes</a>
+                        <a href="index.html#section4">Notícias</a>
+                    </div>
+                    <div class="phone">
+                        <img src="assets/icons/icone-telefone.svg" alt="Ícone do telefone de contato">
+                        <p>(11) 0900-1010</p>
+                    </div>
+                    <div class="mail">
+                        <img src="assets/icons/icone_email.svg" alt="Ícone de email de contato">
+                        <p>contato@gamer.com.br</p>
+                    </div>
+
+                    <div class="midias-sociais2">
+                        <a href="">
+                            <img src="assets/icons/facebook.svg" alt="Imagem link do facebook da empresa">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/linked.svg" alt="Imagem link do Linkedin da empresa">
+                        </a>
+                        <a href="">
+                            <img src="assets/icons/instagram.svg" alt="Imagem link do instagram da empresa">
+                        </a>
+                    </div>
+
+                </nav>
+
+                <!-- menu 3 pontinhos -->
+                <img onclick="mostrarUsuarios()" class="menu-pontinhos" src="assets/icons/Vectortrespontos.svg" alt="Icone de 3 pontinhos, abre e fecha o menu de usuários">
+                <!--  -->
+
+                <div class="menu-usuarios" id="menu-usuarios">
+                    <a href="login.html"> <img src="assets/images/Vectorpersonagem.svg" alt="Icone de perfil"> </a>
+                    <a href=""> <img src="assets/images/Vectorsacola.svg" alt="Icone de sacola"> </a>
+                    <a href=""> <img src="assets/images/Vectorlupa.svg" alt="Icone de lupa"> </a>
+                </div>
+
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="login" class="login">
+
+            <h1>LOGIN</h1>
+            <div class="inputs">
+                <div class="nome">
+                    <img src="assets/icons/icone-pessoa.svg" alt="">
+                    <input type="text" id="nome" placeholder="Digite seu email:">
+                </div>
+
+                <div class="senha">
+                    <img src="assets/icons/icone-senha.svg" alt="">
+                    <input type="password" id="senha" placeholder="Digite sua senha:">
+                </div>
+            </div>
+            <button type="button">Logar</button>
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="grid-layout">
+            <div class="footer-flex-geral">
+                <div class="footer-flex">
+                    <div class="logotipo">
+                        <img src="assets/images/logotipo-gamer.png" alt="">
+                        <p>Nosso sucesso na criação de soluções de negócios se deve em grande parte à nossa equipe talentosa e altamente comprometida.</p>
+                        <nav>
+                            <a href=""> <img src="assets/icons/icone_facebook_footer.svg" alt=""> </a>
+                            <a href=""> <img src="assets/icons/icone_linkedin_footer.svg" alt=""> </a>
+                            <a href=""> <img src="assets/icons/icone_intagram_footer.svg" alt=""> </a>
+                        </nav>
+                    </div>
+
+                    <div class="links-uteis">
+                        <div class="link">
+                            <h1>Links Úteis</h1>
+                            <hr>
+                        </div>
+                        <nav>
+                            <a href="#section1">
+                                <li>Ínicio</li>
+                            </a>
+                            <a href="jogadores.html">
+                                <li>Jogadores</li>
+                            </a>
+                            <a href="index.html#section4">
+                                <li>Notícias</li>
+                            </a>
+
+                            <a href="login.html">
+                                <li>Login</li>
+                            </a>
+                            <a href="equipe.html">
+                                <li>Equipes</li>
+                            </a>
+                        </nav>
+                    </div>
+
+                    <div class="contatos">
+                        <div>
+                            <h1>contatos</h1>
+                            <hr>
+                        </div>
+                        <div class="dados">
+                            <h3>Localização:</h3>
+                            <p>Rua Niterói, 180 - São Caetano do Sul- SP</p>
+
+                            <h3>Junte-se a nós:</h3>
+                            <p>contato@gamer.com.br</p>
+
+                            <h3>Telefone:</h3>
+                            <p>(11) 0900-1010</p>
+                        </div>
+                    </div>
+
+                    <div class="newsletter">
+                        <div>
+                            <h1>Newsletter</h1>
+                            <hr>
+                        </div>
+                        <div class="botoes">
+                            <input type="text" placeholder="Digite seu email:">
+
+                            <button>Enviar</button>
+                        </div>
+                    </div>
+                </div>
+                <p class="direitos">©Copyright2022-GamerJogosDigitais</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function mostrarMenu() {
+            document.getElementById("menu").classList.toggle("mostrar-menu")
+
+        }
+
+        function mostrarUsuarios() {
+            document.getElementById("menu-usuarios").classList.toggle("mostrar-usuarios")
+        }
+    </script>
+</body>
+
+</html>

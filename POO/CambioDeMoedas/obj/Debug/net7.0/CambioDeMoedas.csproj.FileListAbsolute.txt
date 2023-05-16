@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\bin\Debug\net7.0\CambioDeMoedas.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\bin\Debug\net7.0\CambioDeMoedas.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\bin\Debug\net7.0\CambioDeMoedas.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\bin\Debug\net7.0\CambioDeMoedas.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\bin\Debug\net7.0\CambioDeMoedas.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\refint\CambioDeMoedas.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\CambioDeMoedas.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\CambioDeMoedas\obj\Debug\net7.0\ref\CambioDeMoedas.dll

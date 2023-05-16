@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\bin\Debug\net7.0\Sistemas de Produtos.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\bin\Debug\net7.0\Sistemas de Produtos.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\bin\Debug\net7.0\Sistemas de Produtos.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\bin\Debug\net7.0\Sistemas de Produtos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\bin\Debug\net7.0\Sistemas de Produtos.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\refint\Sistemas de Produtos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\Sistemas de Produtos.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Sistemas de Produtos\obj\Debug\net7.0\ref\Sistemas de Produtos.dll

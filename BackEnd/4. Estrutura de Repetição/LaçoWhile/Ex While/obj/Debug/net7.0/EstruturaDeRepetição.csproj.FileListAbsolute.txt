@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\bin\Debug\net7.0\EstruturaDeRepetição.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\bin\Debug\net7.0\EstruturaDeRepetição.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\bin\Debug\net7.0\EstruturaDeRepetição.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\bin\Debug\net7.0\EstruturaDeRepetição.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\bin\Debug\net7.0\EstruturaDeRepetição.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\refint\EstruturaDeRepetição.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\EstruturaDeRepetição.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\EstruturaDeRepetição\obj\Debug\net7.0\ref\EstruturaDeRepetição.dll

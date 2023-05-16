@@ -1,0 +1,278 @@
+@font-face {
+    font-family: 'bebas-nues';
+    src: url(../assets/fonts/BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'open sans';
+    src: url(../assets/fonts/static/OpenSans/OpenSans-Regular.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid-layout {
+    width: 80%;
+    height: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #F9003D;
+    height: 60px;
+}
+
+header #menu-barras {
+    display: none;
+}
+
+.header-flex {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+header nav {
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav a {
+    text-decoration: none;
+    color: white;
+    font-family: 'bebas-nues';
+    font-size: 18px;
+    letter-spacing: 1px;
+    border-radius: 2px;
+}
+
+header nav a:hover {
+    background-color: white;
+    color: red;
+}
+
+
+/******** MAIN *******/
+
+.banner {
+    background-image: url(../assets/image/imagem-fundo-banner.png);
+    height: 720px;
+    background-size: 100%;
+}
+
+#section1 .text-title {
+    width: 550px;
+}
+
+#section1 .text-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#section1 h1 {
+    color: white;
+    font-size: 95px;
+    font-family: 'bebas-nues';
+    border-bottom: #FFAF00 solid 1px;
+    margin-bottom: 25px;
+}
+
+#section1 h2 {
+    color: #F9003D;
+    font-size: 53px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 60px;
+}
+
+#section2 {
+    background-color: #080324;
+    height: 720px;
+    padding-top: 40px;
+}
+
+#section2 h1 {
+    color: #F9003D;
+    font-size: 55px;
+    padding-top: 50px;
+    font-family: 'bebas-nues';
+}
+
+#section2 .section2-flex-geral {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+#img-sobre {
+    height: 380px;
+}
+
+#section2 .section2-flex-geral h1 {
+    padding: 0;
+    color: #FFAF00;
+}
+
+.text-flex2 {
+    display: column;
+    padding-left: 80px;
+    width: 600px;
+}
+
+h4 {
+    font-size: 24px;
+    font-family: Courier;
+    color: white;
+}
+
+.text-flex2 p {
+    font-size: 18px;
+    color: white;
+    font-family: open;
+}
+
+#section3 {
+    background-image: url(../assets/image/imagem-fundo-info.png);
+    height: 200px;
+    background-size: 100%;
+}
+
+#section3 article {
+    color: #A259F7;
+    font-size: 28px;
+    border: #A259F7 solid 1px;
+    letter-spacing: 3px;
+    width: 290px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#section3 .section3-flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.local-sp {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.duracao-dia {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.desafio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/****** footer ******/
+
+#banner-footer {
+    background-image: url(../assets/image/imagem-fundo-endereco.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-position: top;
+}
+
+.endereco h1 {
+    color: #FFAF00;
+    font-family: 'bebas-nues';
+    font-size: 64px;
+}
+
+.localizacao p {
+    color: #A259F7;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.localizacao {
+    padding-left: 40px;
+    border: 2px solid #340B65;
+    background-color: #010010;
+    width: 900px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
+
+.endereco-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.end-loc-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer #img-mapa {
+    position: relative;
+    left: 90px;
+    bottom: 55px;
+}
+
+footer .direitos {
+    background-color: #F9003D;
+    height: 70px;
+}
+
+.direitos p {
+    font-size: 18px;
+    font-family: 'open sans';
+    color: white;
+}
+
+.right-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+    header nav {
+        position: fixed;
+        top: 60px;
+        left: 0;
+        width: 80vw;
+        max-width: 360px;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #F9003D;
+    }
+    header nav a {
+        width: 150px;
+        margin-bottom: 30px;
+        padding: 2px;
+        border-bottom: 2px dashed white;
+        border-radius: 0;
+        font-size: 24px;
+    }
+    header #menu-barras {
+        display: block;
+    }
+    main,
+    footer {
+        display: none;
+    }
+}

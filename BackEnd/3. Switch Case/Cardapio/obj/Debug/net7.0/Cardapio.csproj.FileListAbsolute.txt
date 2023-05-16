@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\bin\Debug\net7.0\Cardapio.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\bin\Debug\net7.0\Cardapio.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\bin\Debug\net7.0\Cardapio.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\bin\Debug\net7.0\Cardapio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\bin\Debug\net7.0\Cardapio.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\refint\Cardapio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\Cardapio.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Cardapio\obj\Debug\net7.0\ref\Cardapio.dll

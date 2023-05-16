@@ -1,0 +1,25 @@
+body {
+    background-color: #1B1426;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+}
+
+.paragrafo {
+    background-color: #F9AA01;
+    color: black;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.diferente {
+    background-color: #F9AA01;
+    color: black;
+    font-weight: bold;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 80px;
+}

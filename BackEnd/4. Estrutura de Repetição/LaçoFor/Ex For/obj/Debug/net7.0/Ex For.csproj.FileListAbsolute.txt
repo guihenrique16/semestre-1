@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\bin\Debug\net7.0\Ex For.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\bin\Debug\net7.0\Ex For.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\bin\Debug\net7.0\Ex For.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\bin\Debug\net7.0\Ex For.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\bin\Debug\net7.0\Ex For.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\refint\Ex For.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\Ex For.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\LaçoFor\Ex For\obj\Debug\net7.0\ref\Ex For.dll

@@ -1,0 +1,798 @@
+    /* Imports de fonts */
+    
+    @font-face {
+        font-family: 'inter';
+        src: url(../assets/fonts/inter/Inter-Medium.ttf);
+    }
+    
+    @font-face {
+        font-family: 'titilium web black';
+        src: url(../assets/fonts/titilium/TitilliumWeb-Black.ttf);
+    }
+    
+    @font-face {
+        font-family: 'titilium web bold';
+        src: url(../assets/fonts/titilium/TitilliumWeb-Bold.ttf);
+    }
+    
+    @font-face {
+        font-family: 'titilium web regular';
+        src: url(../assets/fonts/titilium/TitilliumWeb-Regular.ttf);
+    }
+    
+    @font-face {
+        font-family: 'quicksand regular';
+        src: url(../assets/fonts/quicksand/Quicksand-Regular.ttf);
+    }
+    /* Reset CSS */
+    
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    /* genericas */
+    
+    .setinha {
+        position: fixed;
+        right: 8vw;
+        top: 90vh;
+        z-index: 10000;
+    }
+    
+    .mostrar-menu {
+        left: 0 !important;
+    }
+    
+    .grid-layout {
+        width: 90%;
+        margin: 0 auto;
+        height: 100%;
+        max-width: 1800px;
+    }
+    
+    .alinhamento-between-center {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 100%;
+    }
+    
+    body {
+        color: white;
+        background-color: #1B1426;
+    }
+    /* HEADER */
+    
+    header {
+        position: fixed;
+        top: 0;
+        width: 100vw;
+        height: 60px;
+        z-index: 100;
+        background-color: #1B1426;
+    }
+    
+    header .logo {
+        height: 25px;
+        width: 85px;
+        display: block;
+    }
+    
+    header nav {
+        position: fixed;
+        top: 60px;
+        left: -80vw;
+        width: 80vw;
+        z-index: 101;
+        height: calc(100vh - 60px);
+        display: flex;
+        flex-direction: column;
+        background-image: linear-gradient(to right bottom, rgba(131, 131, 131, 0.7), rgba(131, 131, 131, 0.4));
+        backdrop-filter: blur(45px);
+        transition: left 0.7s;
+    }
+    
+    header .header-top {
+        display: none;
+    }
+    
+    header .header-bottom {
+        height: 60px;
+    }
+    
+    header .menu-navegacao a {
+        text-decoration: none;
+        border-bottom: 2px #F9AA01 solid;
+        height: 85px;
+        font-size: 15px;
+        font-family: 'inter';
+        color: white;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    header .phone {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-bottom: 2px solid #F9AA01;
+        height: 85px;
+        font-size: 15px;
+        font-family: 'inter';
+        gap: 15px;
+    }
+    
+    header .mail {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 85px;
+        font-size: 15px;
+        font-family: 'inter';
+        gap: 15px;
+    }
+    
+    .header-bottom .midias-sociais2 {
+        position: absolute;
+        bottom: 20px;
+        width: 100%;
+        border-bottom: 0px #F9AA01 solid;
+        padding-bottom: 20px;
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-evenly;
+    }
+    
+    header .menu-usuarios {
+        position: fixed;
+        top: 60px;
+        right: -20vw;
+        width: 20vw;
+        z-index: 102;
+        height: 30vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        background-image: linear-gradient(to right bottom, rgba(131, 131, 131, 0.7), rgba(131, 131, 131, 0.4));
+        backdrop-filter: blur(45px);
+        transition: left 0.7s;
+    }
+    
+    .mostrar-usuarios {
+        right: 0 !important;
+    }
+    
+    main {
+        margin-top: 60px;
+    }
+    
+    .section1 {
+        background-image: url(../assets/images/banner-liga-celular.svg);
+        height: 600px;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        background-position: bottom;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .section1 h1 {
+        font-size: 40px;
+        font-family: 'titilium web black';
+        text-shadow: 0px 0px 7px #FD4255;
+        padding-top: 10px;
+    }
+    
+    .section1 .bnt-sobre {
+        width: 170px;
+        height: 40px;
+        margin-bottom: 80px;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: #F9AA01;
+        border-radius: 5px;
+        border: none;
+        text-align: center;
+        padding-top: 1px;
+        text-decoration: none;
+        color: black;
+        font-family: 'titilium web bold';
+    }
+    
+    .section2 {
+        height: 590px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    
+    .section2 img {
+        width: 335px;
+        height: 190px;
+    }
+    
+    .section3 {
+        background-color: #F9AA01;
+        height: 1500px;
+    }
+    
+    .section3 h1 {
+        color: black;
+        font-size: 18px;
+        padding-top: 60px;
+        text-align: center;
+        font-size: 18px;
+        font-family: 'titilium web black';
+        letter-spacing: 2px;
+    }
+    
+    .section3 hr {
+        border-bottom: #1B1426 2.5px solid;
+        width: 200px;
+        margin-top: 30px;
+        margin-left: 60px;
+        margin-bottom: 115px;
+    }
+    
+    .section3 .img-flex {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 1070px;
+    }
+    
+    .section3 .personagem1 {
+        position: relative;
+    }
+    
+    .section3 .personagem2 {
+        position: relative;
+    }
+    
+    .section3 h2 {
+        color: white;
+        font-size: 18px;
+        text-align: center;
+        font-size: 18px;
+        font-family: 'titilium web black';
+    }
+    
+    .section3 p {
+        text-align: center;
+        font-size: 13px;
+        width: 180px;
+        font-family: 'quicksand regular';
+    }
+    
+    .section3 .jogos {
+        position: absolute;
+        left: 107px;
+        top: 20vh;
+        height: 300px;
+        width: 230px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: column;
+        border-top: #ffffff 1px solid;
+        border-left: #ffffff 1px solid;
+        border-radius: 8px;
+        background: linear-gradient(145.9deg, rgba(122, 49, 236, 0.2) 0%, rgba(47, 7, 109, 0.83) 98.56%);
+        backdrop-filter: blur(5.5px);
+    }
+    
+    .section3 .jogos img {
+        height: 97px;
+        width: 97px;
+    }
+    
+    .section3 .professores {
+        position: absolute;
+        top: 15vh;
+        right: 28vw;
+        height: 300px;
+        width: 230px;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        flex-direction: column;
+        border-top: #ffffff 1px solid;
+        border-left: #ffffff 1px solid;
+        border-radius: 8px;
+        background: linear-gradient(145.9deg, rgba(122, 49, 236, 0.2) 0%, rgba(47, 7, 109, 0.83) 98.56%);
+        backdrop-filter: blur(5.5px);
+    }
+    
+    .section3 .professores img {
+        height: 97px;
+        width: 97px;
+    }
+    
+    .section3 .personagem1-img {
+        position: relative;
+        height: 510px;
+        width: 315px;
+    }
+    
+    .section3 .personagem2-img {
+        position: relative;
+        height: 430px;
+        width: 315px;
+        margin-left: 20px;
+    }
+    
+    .section4 {
+        background-image: url(../assets/images/banner-noticias-cll.png);
+        background-size: cover;
+        height: 3675px;
+    }
+    
+    .section4-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .section4 h1 {
+        text-align: center;
+        font-size: 18px;
+        font-family: 'titilium web black';
+        letter-spacing: 1px;
+        padding-top: 30px;
+    }
+    
+    .section4 hr {
+        width: 200px;
+        /* margin-left: 60px;
+        margin-top: 30px; */
+        text-align: center;
+        border-bottom: #F9AA01 solid 2px;
+    }
+    
+    .section4 .noticias-flex {
+        height: 3400px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        flex-direction: column;
+        margin-top: 110px;
+    }
+    
+    .section4 article {
+        width: 335px;
+        height: 387px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        background: linear-gradient(141.58deg, rgba(37, 26, 52, 0.34) 0%, rgba(5, 1, 12, 0.79) 98.48%);
+        border-radius: 8px;
+    }
+    
+    .section4 p {
+        font-family: 'quicksand regular';
+        font-size: 16px;
+        width: 280px;
+        padding-left: 27.5px;
+        padding-bottom: 55px;
+    }
+    
+    .section4 h2 {
+        font-size: 24px;
+        font-family: 'titilium web bold';
+        padding-left: 27.5px;
+    }
+    
+    footer {
+        background-image: url(../assets/images/backgroung_footer.png);
+        background-size: cover;
+        height: 1500px;
+    }
+    
+    footer .footer-flex-geral {
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    
+    footer .footer-flex {
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    
+    footer .logotipo {
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    footer .logotipo p {
+        font-size: 16px;
+        font-family: 'quicksand regular';
+        text-align: left;
+    }
+    
+    footer .links-uteis {
+        height: 165px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    footer .logotipo nav {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    footer h1 {
+        font-family: 'titilium web black';
+        font-size: 30px;
+    }
+    
+    footer hr {
+        width: 120px;
+        border: #F9AA01 2px solid;
+    }
+    
+    footer .links-uteis nav {
+        display: flex;
+        /* justify-content: space-between; */
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    
+    footer .links-uteis nav a {
+        text-decoration: none;
+        color: white;
+        font-size: 16px;
+        font-family: 'titilium web bold';
+    }
+    
+    footer .contatos {
+        height: 245px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    footer .contatos .dados {
+        height: 155px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    footer .contatos .dados h3 {
+        color: #F9AA01;
+        font-size: 16px;
+        font-family: 'titilium web bold';
+    }
+    
+    footer .contatos .dados p {
+        font-size: 16px;
+        font-family: 'titilium web bold';
+        text-align: left;
+    }
+    
+    footer .newsletter {
+        height: 200px;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    
+    footer .newsletter .botoes {
+        height: 100px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    
+    footer .newsletter input {
+        height: 40px;
+        width: 330;
+        padding-left: 20px;
+        color: #ffffff;
+        border-radius: 8px;
+        border-bottom: solid white 1px;
+        border-left: solid white 1px;
+        border-top: solid white 1px;
+        background: linear-gradient(90deg, rgba(239, 239, 239, 0.6), rgba(255, 255, 255, 0.2));
+        backdrop-filter: blur(3px);
+        background-color: transparent;
+        outline: none;
+        font-size: 16px;
+        font-family: 'titilium web regular';
+    }
+    
+    footer .newsletter button {
+        height: 40px;
+        width: 330;
+        border-radius: 8px;
+        background-color: #F9AA01;
+        font-family: 'titilium web bold';
+        font-size: 24px;
+    }
+    
+    footer .newsletter input::placeholder {
+        color: #ffffff;
+    }
+    
+    footer p {
+        text-align: center;
+        font-size: 16px;
+        font-family: 'titilium web regular';
+    }
+    /* Desktop >= 1200px*/
+    /*  */
+    
+    @media screen and (min-width: 1200px) {
+        .grid-layout {
+            width: 90%;
+            max-width: 1600px;
+        }
+        /* header */
+        header {
+            position: static;
+            height: 140px;
+            width: 100%;
+        }
+        header .header-top {
+            display: block;
+            border-bottom: 2px solid #F9AA01;
+            height: 50px;
+        }
+        header .header-top-flex {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        header .header-top .midias-sociais {
+            display: flex;
+            justify-content: space-between;
+            width: 140px;
+            border: none;
+        }
+        header .header-top .contatos {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 450px;
+        }
+        header .header-top .phone,
+        .mail {
+            border: none;
+        }
+        header
+        /* divs .phone, .mail */
+        /* esconde os elementos desnecessários */
+        .header-bottom .menu-hamburguer,
+        header .header-bottom .menu-pontinhos,
+        header .header-bottom nav .phone,
+        header .header-bottom nav .mail,
+        header .header-bottom nav .midias-sociais2 {
+            display: none;
+        }
+        header .logo {
+            width: 200px;
+            height: 50px;
+        }
+        .header-bottom {
+            height: 60px;
+        }
+        .header .header-bottom-flex {
+            height: 90px;
+            display: flex;
+            align-items: center;
+        }
+        header .header-bottom nav {
+            position: static;
+            width: 440px;
+            height: 20px;
+            padding-bottom: 0;
+            flex-direction: row;
+            align-items: center;
+            background-color: transparent;
+            background-image: none;
+            justify-content: space-between;
+        }
+        header .header-bottom .menu-navegacao {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 400px;
+        }
+        header .header-bottom a {
+            border: none;
+            height: 20px;
+        }
+        header .header-bottom .menu-usuarios {
+            position: static;
+            width: 140px;
+            flex-direction: row;
+            justify-content: space-between;
+            height: auto;
+            background-color: transparent;
+            background-image: none;
+        }
+        main {
+            margin-top: 0px;
+        }
+        .section1 {
+            background-image: url(../assets/images/banner-liga-pc.svg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 720px;
+        }
+        .section1 h1 {
+            font-size: 80px;
+        }
+        .section1 .bnt-sobre {
+            width: 200px;
+        }
+        .section2 {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            height: 500px;
+        }
+        .section2 img {
+            width: 556px;
+            height: 313px;
+        }
+        .section3 {
+            height: 1000px;
+        }
+        .section3 .section3-flex {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            /* justify-content: center; */
+        }
+        .section3 h1 {
+            font-size: 40px;
+            letter-spacing: 10px;
+        }
+        .section3 hr {
+            width: 300px;
+            margin-top: 30px;
+            margin-left: 0px;
+            margin-bottom: 115px;
+        }
+        .section3 p {
+            font-size: 16px;
+            width: 250px;
+        }
+        .section3 h2 {
+            font-size: 25px;
+        }
+        .section3 .img-flex {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            height: 700px;
+        }
+        .section3 .personagem1-img {
+            width: 425px;
+            height: 690px;
+        }
+        .section3 .personagem2-img {
+            width: 520px;
+            height: 690px;
+        }
+        .section3 .jogos {
+            position: absolute;
+            top: 15vh;
+            left: 16vw;
+            height: 440px;
+            width: 360px;
+        }
+        .section3 .professores {
+            position: absolute;
+            top: 15vh;
+            left: -2vw;
+            height: 440px;
+            width: 360px;
+        }
+        .section3 .jogos img {
+            width: 160px;
+            height: 160px;
+        }
+        .section3 .professores img {
+            width: 140px;
+            height: 140px;
+        }
+        .section4 {
+            background-image: url(../assets/images/backgrund_notícias.png);
+            height: 1175px;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        .section4 .section4-flex {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        .section4 h1 {
+            font-size: 40px;
+        }
+        .section4 article {
+            width: 285px;
+            height: 387px;
+        }
+        .section4 .noticias-flex {
+            max-width: 1200px;
+            height: 810px;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        .section4 h2 {
+            font-size: 24px;
+        }
+        .section4 p {
+            width: 240px;
+        }
+        footer {
+            background-image: url(../assets/images/backgroung_footer-pc.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 520px;
+        }
+        footer .footer-flex-geral {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+        }
+        footer .footer-flex {
+            height: 300px;
+            flex-direction: row;
+            flex-wrap: wrap;
+        }
+        footer .logotipo {
+            width: 300px;
+            align-items: flex-start;
+        }
+        footer .links-uteis {
+            width: 200px;
+            height: 300px;
+        }
+        footer .links-uteis nav {
+            flex-direction: column;
+            height: 190px;
+            flex-wrap: nowrap;
+            gap: 18px;
+        }
+        footer .contatos {
+            width: 300px;
+            height: 300px;
+        }
+        footer .contatos .dados {
+            height: 190px;
+            display: flex;
+            justify-content: space-between;
+        }
+        footer .newsletter {
+            width: 300px;
+        }
+        footer .direitos {
+            display: flex;
+            justify-content: center;
+            align-items: end;
+        }
+    }

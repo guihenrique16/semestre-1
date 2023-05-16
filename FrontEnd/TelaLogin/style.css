@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid-layout {
+    width: 80%;
+    height: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+main {
+    background-color: blueviolet;
+}
+
+#imagem {}
+
+.flex-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tela-direita {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-direita {
+    display: flex;
+}

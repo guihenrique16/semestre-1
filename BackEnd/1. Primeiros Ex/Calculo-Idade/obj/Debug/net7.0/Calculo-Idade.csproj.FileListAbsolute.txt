@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\bin\Debug\net7.0\Calculo-Idade.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\bin\Debug\net7.0\Calculo-Idade.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\bin\Debug\net7.0\Calculo-Idade.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\bin\Debug\net7.0\Calculo-Idade.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\bin\Debug\net7.0\Calculo-Idade.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\refint\Calculo-Idade.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\Calculo-Idade.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Calculo-Idade\obj\Debug\net7.0\ref\Calculo-Idade.dll

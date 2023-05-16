@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\bin\Debug\net7.0\cadastro de aluno.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\bin\Debug\net7.0\cadastro de aluno.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\bin\Debug\net7.0\cadastro de aluno.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\bin\Debug\net7.0\cadastro de aluno.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\bin\Debug\net7.0\cadastro de aluno.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\refint\cadastro de aluno.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\cadastro de aluno.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\cadastro de aluno\obj\Debug\net7.0\ref\cadastro de aluno.dll

@@ -1,0 +1,133 @@
+@font-face {
+    font-family: 'titilium web black';
+    src: url(../assets/fonts/titilium/TitilliumWeb-Black.ttf);
+}
+
+@font-face {
+    font-family: 'titilium web bold';
+    src: url(../assets/fonts/titilium/TitilliumWeb-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'titilium web regular';
+    src: url(../assets/fonts/titilium/TitilliumWeb-Regular.ttf);
+}
+
+main {
+    background-image: url(../assets/images/Banner_Login-cll.png);
+    height: 685px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    width: 335px;
+    height: 460px;
+    background-color: transparent;
+    background-image: linear-gradient(112.07deg, rgba(27, 20, 38, 0.6) 0%, rgba(60, 3, 65, 0.38) 98.83%);
+    backdrop-filter: blur(5px);
+    border-radius: 12px;
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.login h1 {
+    font-size: 28px;
+    font-family: 'titilium web black';
+    border-bottom: #F9AA01 solid 2px;
+}
+
+.login .inputs {
+    height: 110px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.login .nome {
+    width: 270px;
+    height: 40px;
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    background: /* fundo */
+    linear-gradient(to right bottom, rgba(27, 20, 38, .6), rgba(255, 255, 255, 0.2)) padding-box, /* fundo borda */
+    linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
+    /* backdrop-filter: blur(4px); */
+}
+
+.login .senha {
+    width: 270px;
+    height: 40px;
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid transparent;
+    border-radius: 8px;
+    background: /* fundo */
+    linear-gradient(to right bottom, rgba(27, 20, 38, .6), rgba(255, 255, 255, 0.2)) padding-box, /* fundo borda */
+    linear-gradient(90deg, rgba(255, 255, 255, .6), rgba(255, 255, 255, .1)) border-box;
+    /* backdrop-filter: blur(4px); */
+}
+
+.login input {
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-family: 'titilium web regular';
+}
+
+.login input::placeholder {
+    color: white;
+}
+
+.login button {
+    height: 40px;
+    width: 270px;
+    border-radius: 8px;
+    background-color: #F9AA01;
+    font-size: 24px;
+    font-family: 'titilium web bold';
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@media screen and (min-width: 1200px) {
+    main {
+        background-image: url(../assets/images/banner-login.svg);
+        height: 690px;
+    }
+    .login {
+        width: 800px;
+        height: 520px;
+    }
+    .login h1 {
+        font-size: 40px;
+    }
+    .login .nome {
+        width: 565px;
+        height: 40px;
+        padding-left: 15px;
+    }
+    .login .senha {
+        width: 565px;
+        height: 40px;
+        padding-left: 15px;
+    }
+}

@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\bin\Debug\net7.0\Exercício 4.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\bin\Debug\net7.0\Exercício 4.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\bin\Debug\net7.0\Exercício 4.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\bin\Debug\net7.0\Exercício 4.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\bin\Debug\net7.0\Exercício 4.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\refint\Exercício 4.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\Exercício 4.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\Desvios Condicionais - Exercícios 1 ao 6\Exercício 4\obj\Debug\net7.0\ref\Exercício 4.dll

@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\bin\Debug\net7.0\ListasObjetos.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\bin\Debug\net7.0\ListasObjetos.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\bin\Debug\net7.0\ListasObjetos.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\bin\Debug\net7.0\ListasObjetos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\bin\Debug\net7.0\ListasObjetos.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\refint\ListasObjetos.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ListasObjetos.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\POO\ListasObjetos\obj\Debug\net7.0\ref\ListasObjetos.dll

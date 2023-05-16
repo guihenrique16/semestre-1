@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\bin\Debug\net7.0\ImpostoDeRenda.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\bin\Debug\net7.0\ImpostoDeRenda.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\bin\Debug\net7.0\ImpostoDeRenda.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\bin\Debug\net7.0\ImpostoDeRenda.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\bin\Debug\net7.0\ImpostoDeRenda.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\refint\ImpostoDeRenda.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ImpostoDeRenda.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\ImpostoDeRenda\obj\Debug\net7.0\ref\ImpostoDeRenda.dll

@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\bin\Debug\net7.0\Ex somar 2 nu.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\bin\Debug\net7.0\Ex somar 2 nu.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\bin\Debug\net7.0\Ex somar 2 nu.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\bin\Debug\net7.0\Ex somar 2 nu.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\bin\Debug\net7.0\Ex somar 2 nu.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\refint\Ex somar 2 nu.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\Ex somar 2 nu.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\6. Funções\Ex somar 2 nu\obj\Debug\net7.0\ref\Ex somar 2 nu.dll

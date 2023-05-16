@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\bin\Debug\net7.0\Usuário-Senha.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\bin\Debug\net7.0\Usuário-Senha.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\bin\Debug\net7.0\Usuário-Senha.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\bin\Debug\net7.0\Usuário-Senha.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\bin\Debug\net7.0\Usuário-Senha.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\refint\Usuário-Senha.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\Usuário-Senha.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\4. Estrutura de Repetição\Usuário-Senha\obj\Debug\net7.0\ref\Usuário-Senha.dll

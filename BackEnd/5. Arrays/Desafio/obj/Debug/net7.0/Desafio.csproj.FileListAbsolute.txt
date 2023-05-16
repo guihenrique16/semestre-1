@@ -1,0 +1,15 @@
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\bin\Debug\net7.0\Desafio.exe
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\bin\Debug\net7.0\Desafio.deps.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\bin\Debug\net7.0\Desafio.runtimeconfig.json
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\bin\Debug\net7.0\Desafio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\bin\Debug\net7.0\Desafio.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.csproj.AssemblyReference.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfoInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.AssemblyInfo.cs
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\refint\Desafio.dll
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.pdb
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\Desafio.genruntimeconfig.cache
+C:\Users\48746019871\Desktop\Projetos-Senai\1° Semestre\BackEnd\5. Arrays\Desafio\obj\Debug\net7.0\ref\Desafio.dll
