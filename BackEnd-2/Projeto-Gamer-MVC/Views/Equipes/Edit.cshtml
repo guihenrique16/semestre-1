@@ -1,0 +1,28 @@
+@model Equipes
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edição de Equipes</h2>
+
+@if (ViewBag.UserName == null)
+{
+    <a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="Index">Login</a>
+}
+else
+{
+
+    <form method="post" action='@Url.Action("Atualizar")' enctype="multipart/form-data">
+
+        <input type="hidden" name="IdEquipes" value="@ViewBag.Equipes.IdEquipes">
+
+        <label for="">Nome</label>
+        <input type="text" name="Nome" value="@ViewBag.Equipes.Nome">
+
+        <label for="">Imagem</label>
+        <input type="file" name="Imagem" value="@ViewBag.Equipes.Imagem">
+
+        <button type="submit">Atualizar</button>
+    </form>
+}

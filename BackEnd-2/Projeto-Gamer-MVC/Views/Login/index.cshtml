@@ -1,0 +1,16 @@
+@Model Jogador
+
+@{
+    ViewData["Title"] = "Login";
+}
+<h1>tela de Login</h1>
+
+    <form method="post" action='@Url.Action("Logar")'>
+        <label for="">Email</label>
+        <input type="email" name="Email" required>
+
+        <label for="">Senha</label>
+        <input type="password" name="senha" required>
+
+        <button type="submit">Logar</button>
+    </form>
