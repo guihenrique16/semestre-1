@@ -47,7 +47,7 @@ namespace Projeto_Gamer_MVC.Controllers
             novoJogador.Nome = form["Nome"].ToString();
             novoJogador.Email = form["Email"].ToString();
             novoJogador.Senha = form["Senha"].ToString();
-            novoJogador.IdEquipes = int.Parse(form["IdEquipe"].ToString());
+            novoJogador.IdEquipes = int.Parse(form["IdEquipes"].ToString());
 
             c.Jogador.Add(novoJogador);
             c.SaveChanges();

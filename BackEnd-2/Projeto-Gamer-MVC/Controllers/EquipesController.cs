@@ -88,15 +88,15 @@ namespace Projeto_Gamer_MVC.Controllers
         [Route("Excluir/{id}")]
         public IActionResult Excluir(int id)
         {
-            ViewBag.UserName = HttpContext.Session.GetString("UserName");
-
             Equipes e = c.Equipes.First(e => e.IdEquipes == id);
 
             c.Equipes.Remove(e);
 
+            c.SaveChanges();
 
             return LocalRedirect("~/Equipes/Listar");
         }
+
 
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
